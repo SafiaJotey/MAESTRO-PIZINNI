@@ -1,0 +1,23 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+}
+.nav .logo {
+  width: 20%;
+}
+.logo img {
+  width: 100%;
+}
+.navbar {
+  display: flex;
+}
+
+.navbar a {
+  font-weight: 700;
+  margin-right: 20px;
+  color: white;
+  text-decoration: none;
+  list-style-type: none;
+}
