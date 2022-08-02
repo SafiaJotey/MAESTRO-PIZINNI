@@ -10,6 +10,10 @@ a {
 li {
   list-style-type: none;
 }
+.container {
+  width: 84%;
+  margin: auto;
+}
 
 h1 {
   font-size: 4rem;
@@ -19,4 +23,13 @@ h2 {
 }
 h3 {
   font-size: 2rem;
+}
+h4 {
+  font-size: 25px;
+}
+h5 {
+  font-size: 20px;
+}
+p {
+  font-size: 16px;
 }

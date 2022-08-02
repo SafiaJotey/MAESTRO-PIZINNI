@@ -1,0 +1,35 @@
+.about button {
+  background-color: rgb(255, 69, 79);
+  margin-top: 35px;
+  color: white;
+  font-weight: 700;
+  font-size: 12px;
+  padding: 20px 40px;
+  border: none;
+  outline: none;
+  border-radius: 30px;
+}
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 10px;
+}
+.about-content {
+  width: 50%;
+  padding: 50px;
+}
+.about-image {
+  width: 50%;
+  padding: 10px;
+}
+.about-image img {
+  width: 100%;
+}
+.about-content h5 {
+  color: rgb(109, 109, 109);
+  margin-bottom: 20px;
+}
+.about-content p {
+  margin-top: 20px;
+}
