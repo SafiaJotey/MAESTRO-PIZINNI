@@ -18,15 +18,3 @@
 .banner-content p {
   margin: 20px 0;
 }
-
-.banner button {
-  background-color: rgb(255, 69, 79);
-  margin-top: 35px;
-  color: white;
-  font-weight: 700;
-  font-size: 12px;
-  padding: 20px 40px;
-  border: none;
-  outline: none;
-  border-radius: 30px;
-}

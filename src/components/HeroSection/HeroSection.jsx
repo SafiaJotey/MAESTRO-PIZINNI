@@ -16,7 +16,7 @@ const HeroSection = () => {
             praesentium velit accusantium ab aperiam?
           </p>
 
-          <button>Order Now</button>
+          <button className="btn">Order Now</button>
         </div>
       </div>
     </div>

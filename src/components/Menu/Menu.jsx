@@ -1,12 +1,15 @@
 import React from 'react';
-import './AboutUs.css';
+import './Menu.css';
 
-const AboutUs = () => {
+const Menu = () => {
   return (
     <div className="container">
-      <div className=" about">
-        <div className="about-content">
-          <h5>About Us</h5>
+      <div className=" menu">
+        <div className="menu-image">
+          <img src="/images/pizza.jpg" alt="" />
+        </div>
+        <div className="menu-content">
+          <h5>menu Us</h5>
           <h4>WELCOME TO </h4>
           <h4>MAESTRO PIZZINI</h4>
           <p>
@@ -16,12 +19,9 @@ const AboutUs = () => {
           </p>
           <button className="btn">READ MORE</button>
         </div>
-        <div className="about-image">
-          <img src="/images/pizza.jpg" alt="" />
-        </div>
       </div>
     </div>
   );
 };
 
-export default AboutUs;
+export default Menu;
