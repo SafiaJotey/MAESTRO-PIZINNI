@@ -1,0 +1,20 @@
+.count {
+  background-color: rgb(29, 29, 29);
+}
+.count_items {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 60px 0;
+}
+.single-count {
+  margin: 0 50px;
+  color: white;
+  text-align: center;
+}
+.single-count h3 {
+  color: white;
+}
+.single-count p {
+  color: rgb(120, 120, 120);
+}
