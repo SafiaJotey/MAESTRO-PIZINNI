@@ -1,0 +1,49 @@
+.quickDelivery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.quickDelivery_content {
+  width: 50%;
+  padding: 20px 30px;
+}
+.quickDelivery_image {
+  width: 50%;
+}
+.quickDelivery_image img {
+  width: 100%;
+}
+.quickDelivery_content h5 {
+  color: rgb(109, 109, 109);
+  margin-bottom: 10px;
+}
+.quickDelivery_content p {
+  margin-top: 20px;
+  color: rgb(123, 123, 123);
+}
+.quickDelivery_content form {
+  margin: 5px 0;
+}
+.quickDelivery_content input,
+select {
+  padding: 10px 20px;
+  border: 1px solid rgb(109, 109, 109);
+  border-radius: 50px;
+  margin: 3px 0;
+  color: rgb(123, 123, 123);
+}
+.w-100 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.w-50 {
+  width: 49%;
+}
+form .submit {
+  display: flex;
+  justify-content: center;
+  color: white;
+  border: none;
+}
