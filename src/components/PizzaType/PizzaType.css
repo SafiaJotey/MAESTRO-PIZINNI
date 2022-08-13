@@ -1,0 +1,24 @@
+.PizzaType {
+  background-color: #26282d;
+  padding: 20px 0;
+}
+.PizzaType .title {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  color: #fcfcfc;
+  margin-bottom: 50px;
+}
+.singlePizza {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px 0;
+  margin: 10px 0;
+  border-top: 2px dashed white;
+  color: #fcfcfc;
+}
+.singlePizza img {
+  width: 10%;
+}

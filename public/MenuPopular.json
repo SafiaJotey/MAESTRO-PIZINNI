@@ -1,0 +1,110 @@
+[
+  {
+    "image": "https://i.ibb.co/bzvKwr1/pizza2.png",
+    "name": "Meaty Onion",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$30"
+  },
+  {
+    "image": "https://i.ibb.co/84mBms0/pizza1.png",
+    "name": "Sea Fantasy",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$30"
+  },
+  {
+    "image": "https://i.ibb.co/RTzvmbv/pizza3.png",
+    "name": "Meat Masala",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$40"
+  },
+  {
+    "image": "https://i.ibb.co/5RP5dKc/Pizza4.png",
+    "name": "Chadder Cream",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$25"
+  },
+  {
+    "image": "https://i.ibb.co/WBnjXB5/Pizza5.png",
+    "name": "Sausage Carnival",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$40"
+  },
+  {
+    "image": "https://i.ibb.co/bzvKwr1/pizza2.png",
+    "name": "Meaty Onion",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia,Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit",
+    "price": "$30"
+  },
+  {
+    "image": "https://i.ibb.co/84mBms0/pizza1.png",
+    "name": "Sea Fantasy",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$30"
+  },
+  {
+    "image": "https://i.ibb.co/RTzvmbv/pizza3.png",
+    "name": "Meat Masala",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$40"
+  },
+  {
+    "image": "https://i.ibb.co/5RP5dKc/Pizza4.png",
+    "name": "Chadder Cream",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$25"
+  },
+  {
+    "image": "https://i.ibb.co/WBnjXB5/Pizza5.png",
+    "name": "Sausage Carnival",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$30"
+  },
+  {
+    "image": "https://i.ibb.co/yW3fVC3/Pizza8.png",
+    "name": "Tender Beef",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia?Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$35"
+  },
+  {
+    "image": "https://i.ibb.co/bzvKwr1/pizza2.png",
+    "name": "Mac & Cheese",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia?Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$30"
+  },
+  {
+    "image": "https://i.ibb.co/84mBms0/pizza1.png",
+    "name": "Layer Cake",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia?Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$30"
+  },
+  {
+    "image": "https://i.ibb.co/RTzvmbv/pizza3.png",
+    "name": "Meat MaChine",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia?Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$40"
+  },
+  {
+    "image": "https://i.ibb.co/yW3fVC3/Pizza8.png",
+    "name": "BBQ",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia?Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$35"
+  },
+  {
+    "image": "https://i.ibb.co/bzvKwr1/pizza2.png",
+    "name": "Four Flavour",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia?Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia?",
+    "price": "$30"
+  },
+  {
+    "image": "https://i.ibb.co/84mBms0/pizza1.png",
+    "name": "Kabab coktail",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia?Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$30"
+  },
+  {
+    "image": "https://i.ibb.co/RTzvmbv/pizza3.png",
+    "name": "Cheese Olivia",
+    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia?Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, officia",
+    "price": "$40"
+  }
+]

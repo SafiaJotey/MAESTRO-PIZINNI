@@ -1,0 +1,18 @@
+.allPizza {
+  text-align: center;
+  margin: 40px 0;
+}
+.allPizza .all-Menu {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 5px;
+}
+.individualPizza {
+  padding: 15px;
+}
+.individualPizza img {
+  width: 50%;
+}
+.individualPizza p {
+  color: gray;
+}
