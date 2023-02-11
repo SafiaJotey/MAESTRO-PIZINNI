@@ -2,6 +2,8 @@ import './App.css';
 import AboutUs from './components/AboutUS/AboutUs';
 import AllPizza from './components/AllPizza/AllPizza';
 import Count from './components/Count/Count';
+import Direction from './components/Direction/Direction';
+import Footer from './components/Footer/Footer';
 import HeroSection from './components/HeroSection/HeroSection';
 import Menu from './components/Menu/Menu';
 import PizzaType from './components/PizzaType/PizzaType';
@@ -19,6 +21,8 @@ function App() {
       <QuickDelivery />
       <PizzaType />
       <AllPizza />
+      <Direction />
+      <Footer />
     </div>
   );
 }

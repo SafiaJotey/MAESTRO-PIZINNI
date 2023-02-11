@@ -1,0 +1,38 @@
+.footer-section {
+  margin-top: 64px;
+  background: #0b0d17;
+  padding: 56px 84px;
+}
+.col-lg-6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.footer-section .logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-section .logo img {
+  width: 30%;
+}
+.footer-section small,
+h6 {
+  color: #d9dbe1;
+  margin: 10px 0;
+  text-align: center;
+}
+
+.footer-section a {
+  color: #d9dbe1;
+
+  margin: 20px 5px;
+}
+
+.footer-section img {
+  width: 100%;
+  margin: 10px 2px;
+}

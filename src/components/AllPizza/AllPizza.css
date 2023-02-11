@@ -8,11 +8,12 @@
   padding: 5px;
 }
 .individualPizza {
-  padding: 15px;
+  padding: 20px;
 }
 .individualPizza img {
   width: 50%;
 }
 .individualPizza p {
   color: gray;
+  margin: 5px 0;
 }
